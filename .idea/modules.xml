@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Pemograman Lanjut.iml" filepath="$PROJECT_DIR$/.idea/Pemograman Lanjut.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tugas 1/Tugas 1.iml" filepath="$PROJECT_DIR$/Tugas 1/Tugas 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tugas 2/Tugas 2.iml" filepath="$PROJECT_DIR$/Tugas 2/Tugas 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tugas 3/Tugas 3.iml" filepath="$PROJECT_DIR$/Tugas 3/Tugas 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tugas 4/Tugas 4.iml" filepath="$PROJECT_DIR$/Tugas 4/Tugas 4.iml" />
+    </modules>
+  </component>
+</project>
